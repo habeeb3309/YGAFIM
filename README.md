@@ -26,7 +26,7 @@ To further enhance the app's capabilities, I extended its functionality with a m
 
 To get started with this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/YourUsername/Mental-Health-Support-Assistant.git`
+1. Clone the repository:`git clone https://github.com/habeeb3309/YGAFIM.git`
 2. Install the required dependencies.
 3. Launch the application.
 
